@@ -1,5 +1,9 @@
 ## Ejercicio de React con Vite utizando un componente y modificandolo enviandole props : "Hello my Friend!"
 
+## DEMO
+
+1. [Proyecto](https://ejercicioreact2.netlify.app/) 
+
 Este es un ejercicio simple que utiliza las siguientes herramientas:
 
 - React: Una biblioteca de JavaScript para construir interfaces de usuario interactivas.
